@@ -10,6 +10,8 @@ This Example serves as quick setup for colyseus, but lacks of many features as l
 
 # Installation
 
+Download Colyseus_Server and Assets folders
+
 1. Start Colyseus server: inside Colyseus_Server open cmd and type <u>npm start</u>
 
 2. Copy Assets folder to your game project directory
