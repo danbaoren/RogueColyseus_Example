@@ -6,6 +6,8 @@ Connects scene to Colyseus, reads all avatars, sends messages between them
 
 Simple position sync
 
+This Example serves as quick setup for colyseus, but lacks of many features as login, skins, etc.
+
 # Installation
 
 1. Start Colyseus server: inside Colyseus_Server open cmd and type <u>npm start</u>
@@ -17,9 +19,3 @@ Simple position sync
 4. Put <u>Colyseus/LocalTransformSync</u> to your player character (rapier third person as example). (It sends location and rotation to all players online)
    
    
-
-
-
-
-
-# 
