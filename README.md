@@ -12,7 +12,7 @@ This Example serves as quick setup for colyseus, but lacks of many features as l
 
 1. Start Colyseus server: inside Colyseus_Server open cmd and type <u>npm start</u>
 
-2. Copy Assets folder inside your game project directory
+2. Copy Assets folder to your game project directory
 
 3. Move <u>Colyseus/ColyseusRoomManager</u> to scene (main network manager)
 
